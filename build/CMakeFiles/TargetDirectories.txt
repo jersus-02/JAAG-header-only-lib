@@ -1,0 +1,2 @@
+/data/data/com.termux/files/home/JAAG-header-only-lib/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/JAAG-header-only-lib/build/CMakeFiles/rebuild_cache.dir
