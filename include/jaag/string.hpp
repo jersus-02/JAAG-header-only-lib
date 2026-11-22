@@ -2,6 +2,6 @@
 namespace JAAG::string {
 	class string {
 		private:
-		char* data_ = nullptr;
+			char* data_ = nullptr;
 	};
 }
